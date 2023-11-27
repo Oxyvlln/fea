@@ -1,0 +1,15 @@
+.titto:hover {
+  background-color: var(--bs-blue);
+  color: var(--bs-purple);
+}
+
+.reñi:hover {
+  background-color: var(--bs-blue);
+  color: var(--bs-purple);
+}
+
+.card-group:hover {
+  background-color: var(--bs-blue);
+  color: var(--bs-purple);
+}
+
